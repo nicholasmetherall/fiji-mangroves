@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lau-4",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -179.924059831335057, -19.271102646909583 ], [ -179.924059831335057, -18.549345808397579 ], [ -178.276902890595892, -18.549345808397579 ], [ -178.276902890595892, -19.271102646909583 ], [ -179.924059831335057, -19.271102646909583 ] ] ] ] } }
+]
+}

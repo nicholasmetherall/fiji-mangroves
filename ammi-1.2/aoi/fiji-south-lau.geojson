@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "fiji-south-lau",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -179.99273233034134, -19.97768258298192 ], [ -179.99273233034134, -18.109910227221789 ], [ -178.063088572939535, -18.109910227221789 ], [ -178.063088572939535, -19.97768258298192 ], [ -179.99273233034134, -19.97768258298192 ] ] ] ] } }
+]
+}
