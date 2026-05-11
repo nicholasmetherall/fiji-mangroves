@@ -1,6 +1,8 @@
 *.tif
 *.tiff
 *.pyc
+*.csv
+*.geojson
 #*.csv
 #*.geojson
 .ipynb_checkpoints
@@ -10,5 +12,6 @@ __pycache__
 *.gpkg-shm
 *.gpkg-wal
 
+*.zip
 #*.zip
 *.model
