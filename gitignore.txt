@@ -1,0 +1,14 @@
+*.tif
+*.tiff
+*.pyc
+*.csv
+*.geojson
+.ipynb_checkpoints
+
+__pycache__
+*.gpkg
+*.gpkg-shm
+*.gpkg-wal
+
+*.zip
+*.model
